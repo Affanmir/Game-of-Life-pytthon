@@ -3,8 +3,6 @@ from tkinter import *
 import random
 import math
 # An implementation of Conway's Game of Life
-#
-# Adapted from code by Abdullah Zafar
 
 
 class Config:
